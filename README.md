@@ -1,29 +1,46 @@
-# 👋 Hey there! I'm Aarya Dharmadhikari
+# Aarya Dharmadhikari
 
-🔹 **IT Engineering Student** | ☕ Java & C++ Coder | ☁️ AWS Cloud Explorer | 🤖 AI/ML Dreamer
-
-I’m a third-year Information Technology student who enjoys turning coffee into code ☕ and curiosity into projects 💡.  
-Fluent in Java, C++, HTML, CSS, and JavaScript — and currently diving deep into the AWS Cloud and the fascinating world of AI/ML.
-
-🛠️ Along the way, I've picked up certifications in **Java**, **Cybersecurity**, and **Data Structures & Algorithms (DSA)**.
+**Information Technology Undergraduate · Modern College of Engineering, Pune**
 
 ---
 
-## 🏆 Highlights & Wins
+I build across the full stack — from ML pipelines and NLP systems to production APIs and web applications. Currently focused on applied machine learning and data science, with hands-on experience shipping real-world systems.
 
-- 🌟 **Finalist**, *Udyamohostav* National Startup Pitching Competition  
-  *(MIT-WPU x AICTE x Ministry of Education)*  
-- 💻 Built multiple tech projects including websites, data-driven apps, and more
-- 🔍 Currently exploring cloud tools, backend logic, and AI applications
-
----
-
-## 🤝 Let’s Connect
-
-- [🔗 LinkedIn](https://www.linkedin.com/in/aarya-dharmadhikari-b282b027a)  
-- 📧 aaryadharmadhikari9850@gmail.com  
-- 💻 [GitHub](https://github.com/aarya0044)
+- 🎓 B.E. Information Technology, 2024–2027 · CGPA 8.35/10
+- 💼 Full Stack Developer Intern @ **in2peta** (Hyderabad)
+- 🏆 Finalist — Udyamotsav (AICTE & MoE), selected from 10,000+ startup entries
+- 🥇 Top 10 — Smart India Hackathon 2024 (DRDO Web Simulation)
 
 ---
 
-> 💬 **Personal Motto:** Learn, Experiment, Apply... Repeat. 🚀
+## Tech Stack
+
+**ML & AI** · Python · Scikit-learn · NLP · LangChain · Feature Engineering  
+**Backend** · FastAPI · Streamlit · SQLite · SQLAlchemy · AWS  
+**Frontend** · React · JavaScript · HTML · CSS  
+**Data** · Pandas · NumPy · Matplotlib · Seaborn · Power BI  
+**Tools** · Git · GitHub · Docker
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Moodify](https://github.com/aarya0044/emotion-music-recommender) | NLP system that detects emotions and recommends music in real time | Python, FastAPI, SQLite, NLP |
+| [Financial Fraud Detection](https://github.com/aarya0044/Fraud_Detection) | ML pipeline on 6.3M+ transactions with Logistic Regression & Random Forest | Python, Scikit-learn, Pandas |
+| [AI Chatbot with Persistent Memory](https://github.com/aarya0044/chatbot) | Multi-session conversational AI with long-term memory via SQLite | Python, LangChain, Streamlit, Groq |
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner — AWS Academy
+- Data Analytics Job Simulation — Deloitte
+- Advanced C++ — Spoken Tutorial, IIT Bombay
+
+---
+
+## Connect
+
+[Portfolio](https://aarya0044.github.io/aarya-portfolio/) · [LinkedIn](linkedin.com/in/aarya-dharmadhikari-b282b027a) · [Email](mailto:aaryadharmadhikari9850@gmail.com)

@@ -9,7 +9,7 @@ I build across the full stack — from ML pipelines and NLP systems to productio
 - 🎓 B.E. Information Technology, 2024–2027 · CGPA 8.35/10
 - 💼 Full Stack Developer Intern @ **in2peta** (Hyderabad)
 - 🏆 Finalist — Udyamotsav (AICTE & MoE), selected from 10,000+ startup entries
-- 🥇 Top 10 — Smart India Hackathon 2024 (DRDO Web Simulation)
+- 🥇 Top 10 — Smart India Hackathon 2024(internal round) (DRDO Web Simulation)
 
 ---
 

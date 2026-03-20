@@ -35,7 +35,7 @@ I build across the full stack — from ML pipelines and NLP systems to productio
 
 ## Certifications
 
-- AWS Cloud Practitioner — AWS Academy
+- AWS Cloud Practitioner Fundamentals — AWS Academy
 - Data Analytics Job Simulation — Deloitte
 - Advanced C++ — Spoken Tutorial, IIT Bombay
 
